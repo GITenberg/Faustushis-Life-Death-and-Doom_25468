@@ -1,0 +1,40 @@
+_repo: Faustushis-Life-Death-and-Doom_25468
+_version: 0.1.0
+alternative_title: Faust's Leben, Thaten und Höllenfahrt. English
+contributor:
+  translator:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Klinger, Friedrich Maximilian
+    alias: Klinger, Friedrich Maximilian von
+    birthdate: 1752
+    deathdate: 1831
+    gutenberg_agent_id: '31358'
+    url: http://www.gutenberg.org/2009/agents/31358
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Maximilian_Klinger
+description: ''
+gutenberg_issued: '2008-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Faust, -approximately 1540 -- Fiction'
+title: 'Faustus
+
+  his Life, Death, and Doom'
+url: http://www.gutenberg.org/ebooks/25468
